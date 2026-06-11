@@ -6,3 +6,4 @@
 ./Data analysis/data samples/*
 ML Algorithms and Scikit-learn/datasets/creditcard.csv
 ML Algorithms and Scikit-learn/datasets/*.csv
+ML Algorithms and Scikit-learn/datasets/nyc-flare/*.csv
