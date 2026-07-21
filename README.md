@@ -38,3 +38,12 @@ More deeper and solid are a building foundations, higher and more resistant this
   - Scikit-learn and Machine Learning: https://youtu.be/hDKCxebp88A?si=uD2V06jB9CqgMQh4
   - Scikit-learn documentation: https://scikit-learn.org
 
+## DEEP LEARNING 
+  - Part2 of the book: Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition, *Aurelien-Geron*
+  - Deep Learning Crash Course for Beginners: https://youtu.be/VyWAvY2CF9c
+  - Deep Learning Course for Beginners by Ayush Singh: https://youtu.be/HJd1I3FdSnY
+  - Tensorflow full course - Python Neural Networks for Beginners: https://youtu.be/tPYj3fFJGjk
+  - Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial: https://youtu.be/qFJeN9V1ZsI
+  - PyTorch for Deep Learning & Machine Learning – Full Course: https://youtu.be/V_xro1bcAuA
+
+
