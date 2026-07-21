@@ -7,11 +7,12 @@ Data is the raw material at the AI era
 - ### Scikit-learn and ML Algorithms 
 > *In building a house, there is the problem of the selection of wood.It is essential that the carpenter’s aim be to carry equipment that will cut well and, when he has time, to sharpen that equipment*. — Miyamoto Musashi (The Book of Five Rings)
 It's well to use ML tools but it's better to understand them in depth in order to get better results
-- ### MLOps
-It's very cool to design models, sharp them to get better results in your computer, but it's more interesting to know how to deploy in a more professional and industrial environment. The main idea here is to move from a craft-based paradigm to a more professional one.
+- ### Deep Learning
+Going deeper in data science
 - ### Projects
 It's well to learn but it's better to work on real life projects
-- ### Deep Learning
+- ### MLOps
+It's very cool to design models, sharp them to get better results in your computer, but it's more interesting to know how to deploy in a more professional and industrial environment. The main idea here is to move from a craft-based paradigm to a more professional one.
 - ### Projects
 Again !!!
 - ### Fundamentals
