@@ -47,3 +47,13 @@ More deeper and solid are a building foundations, higher and more resistant this
   - PyTorch for Deep Learning & Machine Learning – Full Course: https://youtu.be/V_xro1bcAuA
 
 
+# PROJECTS
+## FIRST STEP PROJECTS(ML BASIS, DATA ANALYSIS, ML ALGROTIHMS AND SKLEARN)
+  - Tomato Crop Yield Prediction: 
+      - Github Link: https://github.com/AtlasGreenEye/crop-yield-prediction
+      - report: https://www.scribd.com/document/1051325432/Tomato-Yield-Prediction-in-a-Cameroonian-Environment
+  - Momo Fraud detection:
+      - Github Link: https://github.com/TheKryptonium/mobile_money_fraud_detection
+      - report: https://www.scribd.com/document/1052337376/Mobile-Money-Fraud-Detection
+  - ML utils library:
+      - Github: https://github.com/TheKryptonium/MLUtils
